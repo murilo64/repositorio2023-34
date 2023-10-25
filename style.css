@@ -1,1 +1,17 @@
+body {
+    background: #23db41
+}
 
+h1 {
+    text-align: center
+}
+p {
+    text-align: center;
+}
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
